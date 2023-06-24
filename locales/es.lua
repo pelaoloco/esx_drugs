@@ -1,30 +1,30 @@
 Locales ['es'] = {
-  -- weed
-  ['weed_pickupprompt'] = 'pulsa [E] para recolectar Marijuana húmeda.',
-  ['weed_inventoryfull'] = 'no puedes llevar más Marijuana húmeda!',
-  ['weed_processprompt'] = 'pulsa [E] para secar la Marijuana.',
-  ['weed_processingstarted'] = 'secando la Marijuana húmeda...',
-  ['weed_processingfull'] = 'no puedes llevar más Marijuana!',
-  ['weed_processingenough'] = 'necesitas 3x Marijuana húmeda.',
-  ['weed_processed'] = 'de 3x Marijuana húmeda has obtenido 1x Marijuana',
-  ['weed_processingtoofar'] = 'el secado se ha ~r~cancelado por que has abandonado el área.',
+-- weed
+['weed_pickupprompt'] = 'Presiona [E] para recolectar marihuana húmeda.',
+['weed_inventoryfull'] = '¡No puedes llevar más marihuana húmeda!',
+['weed_processprompt'] = 'Presiona [E] para secar la marihuana.',
+['weed_processingstarted'] = 'Iniciando el proceso de secado de la marihuana húmeda...',
+['weed_processingfull'] = '¡No puedes llevar más marihuana!',
+['weed_processingenough'] = 'Necesitas 3 unidades de marihuana húmeda.',
+['weed_processed'] = 'Has obtenido 1 unidad de marihuana seca al secar 3 unidades de marihuana húmeda.',
+['weed_processingtoofar'] = 'El proceso de secado se ha ~r~cancelado ~w~porque has abandonado el área.',
 
-  -- drug dealer
-  ['dealer_prompt'] = 'pulsa [E] para hablar con el ~r~Camello.',
-  ['dealer_title'] = 'camello',
-  ['dealer_item'] = '$%s',
-  ['dealer_notenough'] = 'esa mierda no es cantidad suficiente para vender!',
-  ['dealer_sold'] = 'has vendido %sx %s por $%s',
+-- drug dealer
+['dealer_prompt'] = 'Presiona [E] para hablar con el ~r~distribuidor de productos.',
+['dealer_title'] = 'Distribuidor de productos',
+['dealer_item'] = '$%s',
+['dealer_notenough'] = '¡No es suficiente cantidad para vender!',
+['dealer_sold'] = 'Has vendido %sx %s por $%s.',
 
-  -- license
-  ['license_title'] = 'necesitas un permiso para poder tratar con ese producto, puedes comprarlo aquí.',
-  ['license_no'] = 'no',
-  ['license_bought'] = 'has comprado %s por ~r~$%s',
-  ['license_bought_fail'] = 'no puedes permitirte %s!',
-  ['license_weed'] = 'permiso de cultivo de Marijuana',
+-- license
+['license_title'] = 'Necesitas una licencia para comerciar con ese producto. Puedes adquirirla aquí.',
+['license_no'] = 'No',
+['license_bought'] = 'Has adquirido una licencia de %s por ~r~$%s.',
+['license_bought_fail'] = '¡No puedes permitirte adquirir una licencia de %s!',
+['license_weed'] = 'Licencia de cultivo de marihuana',
 
-  -- blips
-  ['blip_weedfield'] = 'plantación de Marijuana',
-  ['blip_weedprocessing'] = 'preparación de Marijuana',
-  ['blip_drugdealer'] = 'camello'
+-- blips
+['blip_weedfield'] = 'Plantación de marihuana',
+['blip_weedprocessing'] = 'Procesamiento de marihuana',
+['blip_drugdealer'] = 'Distribuidor de productos'
 }
